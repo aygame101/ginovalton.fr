@@ -85,8 +85,8 @@ section {
 
 .img_top_index {
     vertical-align: middle;
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
     object-fit: cover;
     object-position: center;
     border-radius: 50%;
