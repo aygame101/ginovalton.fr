@@ -1,5 +1,5 @@
 # ginovalton.fr
-Mon site internet principal.
+Nouvelle version en developpement.
 
 ### Done
 - Quand on scroll légèrement, on passe à une autre page en full screen.
